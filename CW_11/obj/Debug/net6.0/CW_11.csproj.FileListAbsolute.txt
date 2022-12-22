@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects\CW_11\CW_11\bin\Debug\net6.0\CW_11.exe
+C:\Users\User\Desktop\Projects\CW_11\CW_11\bin\Debug\net6.0\CW_11.deps.json
+C:\Users\User\Desktop\Projects\CW_11\CW_11\bin\Debug\net6.0\CW_11.runtimeconfig.json
+C:\Users\User\Desktop\Projects\CW_11\CW_11\bin\Debug\net6.0\CW_11.dll
+C:\Users\User\Desktop\Projects\CW_11\CW_11\bin\Debug\net6.0\CW_11.pdb
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.dll
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\refint\CW_11.dll
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.pdb
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\CW_11.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\CW_11\CW_11\obj\Debug\net6.0\ref\CW_11.dll
